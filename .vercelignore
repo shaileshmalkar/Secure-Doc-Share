@@ -1,0 +1,11 @@
+backend/
+node_modules/
+__pycache__/
+*.db
+*.sqlite
+.env
+.env.local
+storage/
+test_upload.py
+push_to_github.ps1
+SETUP_GITHUB.md

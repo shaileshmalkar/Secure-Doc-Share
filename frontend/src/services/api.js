@@ -1,4 +1,5 @@
-const API_BASE_URL = '/api'
+// Use environment variable for API URL, fallback to relative path for local dev
+const API_BASE_URL = import.meta.env.VITE_API_URL || '/api'
 
 export const uploadDocument = async (file, passcode) => {
   const formData = new FormData()
