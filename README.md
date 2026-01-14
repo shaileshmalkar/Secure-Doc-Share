@@ -1,5 +1,7 @@
 # Secure Document Sharing
 
+[![GitHub](https://img.shields.io/badge/GitHub-shaileshmalkar-blue)](https://github.com/shaileshmalkar/Secure-Doc-Share)
+
 A secure document sharing application with encryption, multi-user support, and load balancer compatibility.
 
 ## Features
