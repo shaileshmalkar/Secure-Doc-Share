@@ -1,0 +1,11 @@
+
+fastapi
+uvicorn
+bcrypt
+python-multipart
+cryptography
+sqlalchemy
+aiosqlite
+python-jose[cryptography]
+boto3
+aioboto3
